@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "POPS_14T.C": "cpp",
-        "STACK.C": "cpp"
+        "STACK.C": "cpp",
+        "POPS_5TH.C": "cpp",
+        "POPS_9TH.C": "cpp"
     }
 }
